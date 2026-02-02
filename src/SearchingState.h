@@ -5,6 +5,8 @@
 #include <ESP8266WiFi.h>
 
 #include "Config.h"
+#include "ProvisioningState.h"
+#include "ConnectedState.h"
 
 // ============================================================================
 // SEARCHING STATE - Attempting to connect to saved WiFi

@@ -5,6 +5,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 #include "Config.h"
+#include "UpdatingState.h"
+#include "SearchingState.h"
 
 
 /**

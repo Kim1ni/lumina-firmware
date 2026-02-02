@@ -4,6 +4,8 @@
 #include "States.h"
 #include <ArduinoOTA.h>
 #include "Config.h"
+#include "ConnectedState.h"
+#include "SearchingState.h"
 
 // ============================================================================
 // UPDATING STATE - Handles OTA firmware updates

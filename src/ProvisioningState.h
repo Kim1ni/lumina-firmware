@@ -6,6 +6,7 @@
 #include <WiFiUdp.h>
 
 #include "Config.h"
+#include "SearchingState.h"
 
 // ============================================================================
 // PROVISIONING STATE - Device acts as Access Point for setup
